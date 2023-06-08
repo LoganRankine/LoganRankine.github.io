@@ -108,13 +108,13 @@
   .mainpage{
     position: relative;
     height: 100vh;
-    display: flex;
+    display: -webkit-flex;
     justify-content: center;
     align-items: center;
   }
 
   .middle{
-    display: flex;
+    display: -webkit-flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
